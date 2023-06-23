@@ -1,0 +1,1 @@
+E:\sources\_POC\SwipeBackFeature\SwipeBackFeature\SwipeBackFeature.csproj;x64
